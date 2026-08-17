@@ -1,0 +1,49 @@
+# Obsidian App Settings
+.obsidian/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Node/Build (if using any JS tools)
+node_modules/
+dist/
+build/
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# IDE Backup/Temp files
+*.bak
+*.tmp
+
+# Git files
+.git/
+.gitkeep
+
+# Zip archives (e.g., vault exports)
+*.zip
+
+# macOS
+.AppleDouble
+.LSOverride
+.TemporaryItems
+
+# Windows
+Desktop.ini
+$RECYCLE.BIN/
