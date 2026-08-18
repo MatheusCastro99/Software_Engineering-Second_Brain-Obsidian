@@ -68,6 +68,15 @@ description: Root map of contents for MSSA coursework and C# learning
 | [[Stacks and Queues]] | O(1) push/pop, O(1) enqueue/dequeue | LIFO/FIFO patterns |
 | [[Dictionaries and HashSets]] | O(1) average lookup | Fast key-value, deduplication |
 | [[Trees]] | O(log n) balanced | Hierarchical data, sorted access |
+| [[Linear Search]] | O(n) | Small or unsorted data |
+| [[Binary Search]] | O(log n) | Sorted data, frequent lookups |
+| [[Jump Search]] | O(√n) | Sorted arrays with block scanning |
+| [[Hash Lookup]] | O(1) average | Dictionaries and key-value lookup |
+| [[Bubble Sort]] | O(n²) | Simple teaching example |
+| [[Selection Sort]] | O(n²) | Small collections |
+| [[Insertion Sort]] | O(n²) | Nearly sorted data |
+| [[Merge Sort]] | O(n log n) | Large reliable sorting |
+| [[Quick Sort]] | O(n log n) average | Fast general-purpose sorting |
 | [[Big O Notation]] | Performance analysis | Understand complexity, optimize |
 
 ### Design Principles

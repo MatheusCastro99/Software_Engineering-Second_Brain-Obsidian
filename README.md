@@ -8,7 +8,7 @@ A carefully organized knowledge base covering:
 
 - **C# Language Fundamentals** - Classes, inheritance, interfaces, namespaces, access modifiers
 - **Programming Fundamentals** - Variables, operators, methods, error handling
-- **Data Structures & Algorithms** - Arrays, lists, linked lists, trees, stacks, queues, hash tables, Big O notation
+- **Data Structures & Algorithms** - Arrays, lists, linked lists, trees, stacks, queues, hash tables, searching, sorting, and Big O notation
 - **Software Engineering** - OOP principles, SOLID design patterns, DRY principle
 - **Development Tools** - Git fundamentals, file I/O, UI development (WinForms & MAUI)
 
@@ -155,12 +155,24 @@ Concepts tied to real applications:
 │   └── Error Handling.md
 ├── Data Structures and Algorithms/  # Performance
 │   ├── Big O Notation.md
-│   ├── Arrays.md
-│   ├── Lists.md
-│   ├── Linked Lists.md
-│   ├── Trees.md
-│   ├── Stacks and Queues.md
-│   └── Dictionaries and HashSets.md
+│   ├── Data Structures/
+│   │   ├── Arrays.md
+│   │   ├── Lists.md
+│   │   ├── Linked Lists.md
+│   │   ├── Trees.md
+│   │   ├── Stacks and Queues.md
+│   │   └── Dictionaries and HashSets.md
+│   ├── Searching Algorithms/
+│   │   ├── Linear Search.md
+│   │   ├── Binary Search.md
+│   │   ├── Jump Search.md
+│   │   └── Hash Lookup.md
+│   └── Sorting Algorithms/
+│       ├── Bubble Sort.md
+│       ├── Selection Sort.md
+│       ├── Insertion Sort.md
+│       ├── Merge Sort.md
+│       └── Quick Sort.md
 ├── Software Engineering/            # Design principles
 │   ├── OOP Fundamentals.md
 │   ├── SOLID Principles.md
