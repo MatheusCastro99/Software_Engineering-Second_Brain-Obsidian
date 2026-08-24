@@ -19,5 +19,6 @@
 - [[OOP Fundamentals]] - Theoretical principles behind C# design
 - [[SOLID Principles]] - Design patterns for maintainable code
 - [[File IO]] - Reading and writing files in C#
+- [[Path of Code Execution]] - Interpreted vs Compiled vs Managed Languages
 
 *Last updated: 2026-08-17*
