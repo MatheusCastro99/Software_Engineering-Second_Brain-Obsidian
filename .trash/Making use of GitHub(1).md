@@ -1,0 +1,1 @@
+- MCP to GitHub Issues for tracking complex tasks and releasing unnecessary
