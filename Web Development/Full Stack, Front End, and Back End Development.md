@@ -66,12 +66,12 @@ Consistent contracts reduce duplicated assumptions and make independent developm
 
 ## Common Architectures
 
-| Architecture | Description |
-|--------------|-------------|
-| Server-rendered | Server produces HTML and the browser enhances or submits it |
-| Single-page application | Browser loads an application and communicates with APIs |
-| Static site with APIs | Prebuilt pages use APIs for dynamic operations |
-| Full-stack framework | One framework coordinates server and client rendering |
+| Architecture            | Description                                                 |
+| ----------------------- | ----------------------------------------------------------- |
+| Server-rendered         | Server produces HTML and the browser enhances or submits it |
+| Single-page application | Browser loads an application and communicates with APIs     |
+| Static site with APIs   | Prebuilt pages use APIs for dynamic operations              |
+| Full-stack framework    | One framework coordinates server and client rendering       |
 
 Choose based on interactivity, SEO, performance, team skills, hosting, accessibility, and data requirements.
 

@@ -9,6 +9,8 @@ related: Server-Side vs Client-side operations, Cache and Redis, Error Handling
 
 # REST API
 
+> Representational State Transfer API (Application Programming Interface)
+
 A REST API exposes resources over HTTP using predictable URLs, methods, representations, and status codes. REST is an architectural style, not a single library or protocol separate from HTTP.
 
 ## Resources and URLs

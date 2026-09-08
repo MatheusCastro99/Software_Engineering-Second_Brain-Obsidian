@@ -20,6 +20,8 @@ Serialization is used in APIs, files, caches, messaging systems, databases, and 
 
 ## JSON
 
+> JavaScript Object Notation
+
 JSON is a lightweight, text-based format commonly used by web APIs. It represents objects, arrays, strings, numbers, booleans, and null values.
 
 ```json
@@ -33,6 +35,8 @@ JSON is a lightweight, text-based format commonly used by web APIs. It represent
 Advantages include broad language support, readability, and simple browser integration. JSON does not preserve every programming-language type, so dates, decimals, enums, and polymorphic objects need an agreed representation.
 
 ## XML
+
+> Extensible Markup Language
 
 XML is a text-based, hierarchical format that uses elements and attributes.
 
