@@ -1,280 +1,159 @@
 # MSSA Knowledge Base
 
-> **Comprehensive, interconnected notes for Microsoft MSSA coursework** — Master C# programming, data structures, algorithms, software engineering principles, and development tools.
+> Learning index for C#, software engineering, AI, data, web systems, and production delivery.
 
-## 📚 What's Inside
+## Start Here
 
-A carefully organized knowledge base covering:
+- [StudyRoadmap.md](StudyRoadmap.md) — full guided learning path
+- [MSSA Master Knowledge Base.md](MSSA%20Master%20Knowledge%20Base.md) — vault overview
+- [MOCs/C Sharp Master Index.md](MOCs/C%20Sharp%20Master%20Index.md) — C# fundamentals
+- [MOCs/Data Structures Index.md](MOCs/Data%20Structures%20Index.md) — algorithms and performance
+- [MOCs/AI Master Index.md](MOCs/AI%20Master%20Index.md) — AI and agentic workflows
+- [MOCs/Data and Systems Master Index.md](MOCs/Data%20and%20Systems%20Master%20Index.md) — databases, APIs, and systems
+- [MOCs/Production Development Master Index.md](MOCs/Production%20Development%20Master%20Index.md) — lifecycle and delivery
 
-- **C# Language Fundamentals** - Classes, inheritance, interfaces, namespaces, access modifiers
-- **Programming Fundamentals** - Variables, operators, methods, error handling
-- **Data Structures & Algorithms** - Arrays, lists, linked lists, trees, stacks, queues, hash tables, searching, sorting, and Big O notation
-- **Software Engineering** - OOP principles, SOLID design patterns, DRY principle
-- **Development Tools** - Git fundamentals, file I/O, UI development (WinForms & MAUI)
+## Core Topics
 
-### Note Highlights
+### C# and Programming
+- [C# Language/Classes.md](C%23%20Language/Classes.md)
+- [C# Language/Interfaces.md](C%23%20Language/Interfaces.md)
+- [C# Language/Inheritance.md](C%23%20Language/Inheritance.md)
+- [Programming Fundamentals/Variables and Data Types.md](Programming%20Fundamentals/Variables%20and%20Data%20Types.md)
+- [Programming Fundamentals/Methods.md](Programming%20Fundamentals/Methods.md)
+- [Programming Fundamentals/Error Handling.md](Programming%20Fundamentals/Error%20Handling.md)
 
-✨ **Rich Cross-Linking** - Every concept connects to related topics for deep exploration  
-📊 **Performance Analysis** - Time/space complexity for all data structures  
-💻 **Code Examples** - Practical C# examples in every major note  
-🎯 **Learning Paths** - Beginner, intermediate, and advanced progression  
-📖 **Comprehensive Coverage** - From syntax to architecture patterns  
+### Data Structures and Algorithms
+- [Data Structures and Algorithms/Big O Notation.md](Data%20Structures%20and%20Algorithms/Big%20O%20Notation.md)
+- [Data Structures and Algorithms/Data Structures/Arrays.md](Data%20Structures%20and%20Algorithms/Data%20Structures/Arrays.md)
+- [Data Structures and Algorithms/Data Structures/Lists.md](Data%20Structures%20and%20Algorithms/Data%20Structures/Lists.md)
+- [Data Structures and Algorithms/Data Structures/Stacks and Queues.md](Data%20Structures%20and%20Algorithms/Data%20Structures/Stacks%20and%20Queues.md)
+- [Data Structures and Algorithms/Searching Algorithms/Binary Search.md](Data%20Structures%20and%20Algorithms/Searching%20Algorithms/Binary%20Search.md)
+- [Data Structures and Algorithms/Sorting Algorithms/Merge Sort.md](Data%20Structures%20and%20Algorithms/Sorting%20Algorithms/Merge%20Sort.md)
 
-## 🚀 Getting Started
+### Data, Web, and Systems
+- [Databases/SQL.md](Databases/SQL.md)
+- [Databases/Relational vs non-Relational DBs.md](Databases/Relational%20vs%20non-Relational%20DBs.md)
+- [Web Development/REST API.md](Web%20Development/REST%20API.md)
+- [Web Development/DOM.md](Web%20Development/DOM.md)
+- [Web Development/Cache and Redis.md](Web%20Development/Cache%20and%20Redis.md)
+- [File Handling/File IO.md](File%20Handling/File%20IO.md)
 
-### Option 1: View on GitHub
-Browse notes directly on GitHub. Start with:
-- [`MSSA Master Knowledge Base.md`](MSSA%20Master%20Knowledge%20Base.md) — Root navigation hub
-- [`MOCs/C Sharp Master Index.md`](MOCs/C%20Sharp%20Master%20Index.md) — C# language guide
-- [`MOCs/Data Structures Index.md`](MOCs/Data%20Structures%20Index.md) — Data structures and algorithms
+### AI and Production
+- [AI Fundamentals/Prompt Engineering Basics.md](AI%20Fundamentals/Prompt%20Engineering%20Basics.md)
+- [AI Fundamentals/Probabilistic and Vectorial nature.md](AI%20Fundamentals/Probabilistic%20and%20Vectorial%20nature.md)
+- [AI Development Strategies/Agentic Architecture.md](AI%20Development%20Strategies/Agentic%20Architecture.md)
+- [Development Lifecycle/SDLC.md](Development%20Lifecycle/SDLC.md)
+- [Development Lifecycle/CI-CD Pipeline.md](Development%20Lifecycle/CI-CD%20Pipeline.md)
+- [Shipping Solutions/Docker/Docker Basics.md](Shipping%20Solutions/Docker/Docker%20Basics.md)
+- [Shipping Solutions/Kubernetes.md](Shipping%20Solutions/Kubernetes.md)
+- [Shipping Solutions/Azure Cloud.md](Shipping%20Solutions/Azure%20Cloud.md)
 
-### Option 2: Use with Obsidian (Recommended)
+### Tools and Workflow
+- [Git and GitHub/Git Fundamentals.md](Git%20and%20GitHub/Git%20Fundamentals.md)
+- [Software Engineering/SOLID Principles.md](Software%20Engineering/SOLID%20Principles.md)
+- [Software Engineering/OOP Fundamentals.md](Software%20Engineering/OOP%20Fundamentals.md)
+- [UI Development/WinForms and MAUI.md](UI%20Development/WinForms%20and%20MAUI.md)
 
-**Benefits:**
-- Click `[[wiki links]]` to navigate between notes
-- See backlinks and knowledge graph
-- Local search across all notes
-- Graph view to visualize connections
+## Quick Use
 
-**Setup:**
+- Start with [StudyRoadmap.md](StudyRoadmap.md)
+- Use [MSSA Master Knowledge Base.md](MSSA%20Master%20Knowledge%20Base.md) for the big picture
+- Open the relevant MOC for a topic cluster
+- Use Obsidian graph view and wiki links to explore connections
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/mssa-notes.git
-   cd mssa-notes
-   ```
+## Notes
 
-2. Open in Obsidian:
-   - Launch Obsidian
-   - Choose "Open folder as vault"
-   - Select the `MSSA Notes - Obsidian` folder
+This vault is organized for learning, revision, and practical software development study. It is intentionally structured like a second brain: small concepts first, then connections, then deeper systems thinking.
 
-3. Start exploring:
-   - Open [`MSSA Master Knowledge Base.md`](MSSA%20Master%20Knowledge%20Base.md)
-   - Use `Ctrl+Click` (or `Cmd+Click`) to follow wiki links
-   - View the graph for connections: `Ctrl+G` (or `Cmd+G`)
+Last updated: September 2026
+- data modeling and querying
+- AI guidance and multi-step task execution
+- shipping software into production
 
-## 📖 How to Navigate
+## Repository Structure
 
-### Entry Points
-
-**Start Here:**
-- [`MSSA Master Knowledge Base.md`](MSSA%20Master%20Knowledge%20Base.md) — Overview with learning paths
-
-**By Topic:**
-- [`MOCs/C Sharp Master Index.md`](MOCs/C%20Sharp%20Master%20Index.md) — All C# language features
-- [`MOCs/Data Structures Index.md`](MOCs/Data%20Structures%20Index.md) — Algorithms and data organization
-
-**By Category:**
-- `C# Language/` — Language syntax and features
-- `Programming Fundamentals/` — Core computing concepts
-- `Data Structures and Algorithms/` — Performance and structures
-- `Software Engineering/` — Design principles and patterns
-- `File Handling/` — Data persistence
-- `Git and GitHub/` — Version control
-- `UI Development/` — User interfaces
-
-### Learning Paths
-
-**👶 Beginner Path**
-1. Variables and Data Types
-2. Operators
-3. Methods
-4. Classes
-5. Error Handling
-
-**🎯 Intermediate Path**
-1. Inheritance
-2. Interfaces
-3. Access Modifiers
-4. Arrays and Lists
-5. OOP Fundamentals
-
-**🚀 Advanced Path**
-1. SOLID Principles
-2. DRY Principle
-3. Big O Notation
-4. Trees & Advanced Structures
-5. Hash Tables for Optimization
-
-## 🔍 Key Features
-
-### Comprehensive Coverage
-
-Every note includes:
-- Clear concept explanation
-- Practical C# code examples
-- Real-world applications
-- Performance implications
-- Related concepts (linked)
-- Best practices and anti-patterns
-
-### Rich Linking
-
-Wiki-style links (`[[Note Name]]`) create a knowledge network:
-- Navigate between related concepts instantly
-- Discover unexpected connections
-- Reinforce learning through repetition
-- Build mental models through association
-
-### Performance Context
-
-All data structures include:
-- Time complexity analysis with [[Big O Notation]]
-- Space complexity considerations
-- When to use vs. when to avoid
-- Comparison tables
-
-### Practical Focus
-
-Concepts tied to real applications:
-- Browser history (stacks)
-- Print queues (queues)
-- File systems (trees)
-- Caching (hash tables)
-- Undo/redo (stacks)
-
-## 📚 Repository Structure
-
-```
+```text
 .
-├── MSSA Master Knowledge Base.md   # Start here!
-├── MOCs/                            # Master indices
+├── MSSA Master Knowledge Base.md
+├── README.md
+├── Memory Management.md
+├── MOCs/
 │   ├── C Sharp Master Index.md
-│   └── Data Structures Index.md
-├── C# Language/                     # Language features
-│   ├── Classes.md
-│   ├── Interfaces.md
-│   ├── Inheritance.md
-│   ├── Access Modifiers.md
-│   └── Namespaces.md
-├── Programming Fundamentals/        # Core concepts
-│   ├── Variables and Data Types.md
-│   ├── Operators.md
-│   ├── Methods.md
-│   └── Error Handling.md
-├── Data Structures and Algorithms/  # Performance
-│   ├── Big O Notation.md
-│   ├── Data Structures/
-│   │   ├── Arrays.md
-│   │   ├── Lists.md
-│   │   ├── Linked Lists.md
-│   │   ├── Trees.md
-│   │   ├── Stacks and Queues.md
-│   │   └── Dictionaries and HashSets.md
-│   ├── Searching Algorithms/
-│   │   ├── Linear Search.md
-│   │   ├── Binary Search.md
-│   │   ├── Jump Search.md
-│   │   └── Hash Lookup.md
-│   └── Sorting Algorithms/
-│       ├── Bubble Sort.md
-│       ├── Selection Sort.md
-│       ├── Insertion Sort.md
-│       ├── Merge Sort.md
-│       └── Quick Sort.md
-├── Software Engineering/            # Design principles
-│   ├── OOP Fundamentals.md
-│   ├── SOLID Principles.md
-│   └── DRY Principle.md
+│   ├── Data Structures Index.md
+│   ├── AI Master Index.md
+│   └── Production Development Master Index.md
+├── C# Language/
+├── Programming Fundamentals/
+├── Data Structures and Algorithms/
+├── Databases/
+├── Web Development/
+├── AI Fundamentals/
+├── AI Development Strategies/
+├── Development Lifecycle/
+├── Shipping Solutions/
+├── Software Engineering/
 ├── File Handling/
-│   └── File IO.md
 ├── Git and GitHub/
-│   └── Git Fundamentals.md
 ├── UI Development/
-│   └── WinForms and MAUI.md
-└── .gitignore                       # Git configuration
+├── tools/
+├── .gitignore
+├── .obsidian/
+└── .git/
 ```
 
-## 💡 Tips for Maximum Learning
+## Tips for Maximum Learning
 
-### 1. Use the Graph View (Obsidian)
-   - `Ctrl+G` (or `Cmd+G`) to see connections visually
-   - Hover over nodes to see note previews
-   - Identifies knowledge clusters
+1. Use the Graph View in Obsidian to see how ideas connect.
+2. Follow the learning paths from beginner to advanced.
+3. Apply concepts in small projects and exercises.
+4. Create your own links as you build personal understanding.
 
-### 2. Follow the Learning Paths
-   - Start with beginner concepts
-   - Progress to intermediate
-   - Tackle advanced patterns
-   - Ensures solid foundation
+## Usage and Attribution
 
-### 3. Apply as You Learn
-   - Practice code examples
-   - Build small projects
-   - Refer back to notes while coding
-   - Make personal annotations
-
-### 4. Create Personal Links
-   - Add `[[Your Note]]` as you create personal references
-   - Link to exercises you complete
-   - Track your understanding
-
-## 🤝 Usage and Attribution
-
-These notes are organized for **personal learning** in the MSSA program.
+These notes are organized for personal learning in the MSSA program and for practical software development studies.
 
 If referencing or sharing:
-- Acknowledge the source
-- Link back to this repository
-- Respect MSSA course policies
+- acknowledge the source
+- link back to this repository
+- respect MSSA course policies and institutional requirements
 
-## 📝 Notes Organization Principles
+## Notes Organization Principles
 
-**Atomic Notes**
-- Each note covers one primary concept
-- Focused and manageable
-- Referenceable and lineable
+- Atomic Notes: each note covers one primary concept
+- Rich Linking: related concepts are connected clearly
+- Clear Hierarchy: master indices guide navigation
+- Practical Examples: code and scenario-based learning where useful
+- Context Preservation: enough detail for future understanding
 
-**Meaningful Titles**
-- Clear and descriptive
-- Easy to search and find
-- Question-like when helpful
+## Keeping Notes Updated
 
-**Rich Linking**
-- `[[Note Name]]` for connections
-- Multiple perspectives on concepts
-- Bidirectional relationships
-
-**Practical Examples**
-- Working C# code in every note
-- Real-world applications
-- Before/after comparisons
-
-**Context Preservation**
-- Enough detail for future understanding
-- Not overly verbose
-- Balance between depth and clarity
-
-## 🔄 Keeping Notes Updated
-
-These notes are **living documents**:
-- Updated as MSSA coursework progresses
-- Refined based on learning outcomes
-- Examples improved over time
-- New concepts added as encountered
+These notes are living documents:
+- updated as coursework and practice progresses
+- refined based on learning outcomes
+- expanded to reflect the broader software and AI ecosystem
+- improved with new concepts as encountered
 
 If you're using these notes locally and want updates:
 ```bash
 git pull origin main
 ```
 
-## 📞 Questions & Discussion
+## Questions and Discussion
 
 For questions about concepts:
-1. Check the linked notes first (click `[[wiki links]]`)
-2. Review the examples and code
-3. Consult the related concepts
-4. Refer to MSSA course materials
+1. Check the linked notes first.
+2. Review the examples and code.
+3. Consult related concepts.
+4. Refer to MSSA course materials and supporting documentation.
 
-## 📄 License
+## License
 
-These notes are provided for **educational purposes** within the MSSA program.
+These notes are provided for educational purposes within the MSSA program and broader software learning context.
 
 ---
 
-**Last Updated:** August 2026  
-**Status:** Comprehensive Foundation  
-**Best Viewed:** [In Obsidian](https://obsidian.md/) or on GitHub
+Last Updated: September 2026
+Status: Expanded Knowledge Base
+Best Viewed: In Obsidian or on GitHub
 
-**Start Learning:** Open [`MSSA Master Knowledge Base.md`](MSSA%20Master%20Knowledge%20Base.md)
+Start Learning: [MSSA Master Knowledge Base.md](MSSA%20Master%20Knowledge%20Base.md)
