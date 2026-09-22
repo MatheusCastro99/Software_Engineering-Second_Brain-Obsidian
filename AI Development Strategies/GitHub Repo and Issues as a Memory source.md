@@ -1,8 +1,8 @@
 ---
 tags:
-	- ai-development
-	- github
-	- project-memory
+  - ai-development
+  - github
+  - project-memory
 category: AI Development Strategies
 related: Making use of GitHub, Agents, Sub-Agents, and Multi-Agents Orchestration, Git Fundamentals
 ---

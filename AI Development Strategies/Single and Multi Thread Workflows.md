@@ -1,8 +1,8 @@
 ---
 tags:
-	- ai-development
-	- workflows
-	- orchestration
+  - ai-development
+  - workflows
+  - orchestration
 category: AI Development Strategies
 related: Agentic Architecture, Agents, Sub-Agents, and Multi-Agents Orchestration, GitHub Repo and Issues as a Memory source
 ---

@@ -1,8 +1,8 @@
 ---
 tags:
-	- shipping-solutions
-	- kubernetes
-	- containers
+  - shipping-solutions
+  - kubernetes
+  - containers
 category: Shipping Solutions
 related: Docker Basics, Azure Cloud, DevOps, CI-CD Pipeline
 ---

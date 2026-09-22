@@ -1,8 +1,8 @@
 ---
 tags:
-	- web-development
-	- architecture
-	- client-server
+  - web-development
+  - architecture
+  - client-server
 category: Web Development
 related: REST API, DOM, Cache and Redis, Popular Stacks and Frameworks
 ---

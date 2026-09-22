@@ -1,8 +1,8 @@
 ---
 tags:
-	- ai-fundamentals
-	- llm
-	- generation
+  - ai-fundamentals
+  - llm
+  - generation
 category: AI Fundamentals
 related: Probabilistic and Vectorial nature, Prompt Engineering Basics, Word Tokenization
 ---

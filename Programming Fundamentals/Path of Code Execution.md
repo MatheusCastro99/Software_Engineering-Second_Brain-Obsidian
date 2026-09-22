@@ -4,7 +4,7 @@ tags:
   - fundamentals
   - principles
 category: Programming Fundamentals
-related:
+related: CLR, Managed Code, Memory Management
 ---
 # From Editor to Execution
 
@@ -26,3 +26,8 @@ related:
 - Intermediate language ->
 - CLR ->
 - Machine Code
+
+## Related Concepts
+- [[CLR]] - The runtime that executes Intermediate Language
+- [[Managed Code]] - Code executed under the CLR's control
+- [[.NET/Memory Management|Memory Management]] - How the runtime manages memory

@@ -1,8 +1,8 @@
 ---
 tags:
-	- development-lifecycle
-	- technical-debt
-	- maintainability
+  - development-lifecycle
+  - technical-debt
+  - maintainability
 category: Development Lifecycle
 related: Agile methodology, SDLC, Release Management, SOLID Principles
 ---

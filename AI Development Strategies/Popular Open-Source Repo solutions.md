@@ -1,8 +1,8 @@
 ---
 tags:
-	- ai-development
-	- open-source
-	- tools
+  - ai-development
+  - open-source
+  - tools
 category: AI Development Strategies
 related: Popular Tools and Solutions, Agentic Architecture, MCP's
 ---

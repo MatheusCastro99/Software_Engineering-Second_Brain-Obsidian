@@ -1,8 +1,8 @@
 ---
 tags:
-	- ai-fundamentals
-	- prompting
-	- llm
+  - ai-fundamentals
+  - prompting
+  - llm
 category: AI Fundamentals
 related: Temperature and Verbosity, Word Tokenization, Probabilistic and Vectorial nature
 ---

@@ -1,8 +1,8 @@
 ---
 tags:
-	- development-lifecycle
-	- agile
-	- project-management
+  - development-lifecycle
+  - agile
+  - project-management
 category: Development Lifecycle
 related: Sprints, SDLC, DevOps, CI-CD Pipeline
 ---

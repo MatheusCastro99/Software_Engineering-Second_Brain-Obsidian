@@ -1,8 +1,8 @@
 ---
 tags:
-	- shipping-solutions
-	- docker
-	- command-line
+  - shipping-solutions
+  - docker
+  - command-line
 category: Shipping Solutions
 related: Docker Basics, Kubernetes, ForEach-Object $_ and other useful tricks
 ---

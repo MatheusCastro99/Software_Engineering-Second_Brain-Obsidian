@@ -1,8 +1,8 @@
 ---
 tags:
-	- ai-development
-	- skills
-	- agents
+  - ai-development
+  - skills
+  - agents
 category: AI Development Strategies
 related: Agentic Architecture, MCP's, Agents, Sub-Agents, and Multi-Agents Orchestration
 ---

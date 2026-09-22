@@ -15,10 +15,16 @@
 - [[Access Modifiers]] - Encapsulation and visibility control
 - [[Namespaces]] - Organize and prevent naming conflicts
 
+## .NET Runtime
+- [[Path of Code Execution]] - Interpreted vs Compiled vs Managed Languages
+- [[CLR]] - Common Language Runtime: turns Intermediate Language into machine code
+- [[Managed Code]] - Code that runs through the CLR instead of directly on hardware
+- [[.NET/Memory Management|Memory Management]] - Garbage collection, boxing/unboxing, value vs reference types
+
 ## Related Domains
 - [[OOP Fundamentals]] - Theoretical principles behind C# design
 - [[SOLID Principles]] - Design patterns for maintainable code
 - [[File IO]] - Reading and writing files in C#
-- [[Path of Code Execution]] - Interpreted vs Compiled vs Managed Languages
+- [[WinForms and MAUI]] - Building desktop and mobile UIs with C#
 
-*Last updated: 2026-08-17*
+*Last updated: 2026-09-22*

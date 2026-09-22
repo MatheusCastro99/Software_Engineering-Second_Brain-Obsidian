@@ -1,8 +1,8 @@
 ---
 tags:
-	- shipping-solutions
-	- docker
-	- containers
+  - shipping-solutions
+  - docker
+  - containers
 category: Shipping Solutions
 related: Docker commands, Kubernetes, Azure Cloud, ForEach-Object $_ and other useful tricks
 ---

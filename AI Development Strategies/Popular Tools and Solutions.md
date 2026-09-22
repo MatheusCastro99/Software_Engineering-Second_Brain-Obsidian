@@ -1,8 +1,8 @@
 ---
 tags:
-	- ai-development
-	- coding-assistants
-	- tools
+  - ai-development
+  - coding-assistants
+  - tools
 category: AI Development Strategies
 related: Popular Open-Source Repo solutions, MCP's, Agentic Architecture
 ---

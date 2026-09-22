@@ -1,8 +1,8 @@
 ---
 tags:
-	- ai-fundamentals
-	- tokenization
-	- llm
+  - ai-fundamentals
+  - tokenization
+  - llm
 category: AI Fundamentals
 related: Probabilistic and Vectorial nature, Temperature and Verbosity, Prompt Engineering Basics
 ---

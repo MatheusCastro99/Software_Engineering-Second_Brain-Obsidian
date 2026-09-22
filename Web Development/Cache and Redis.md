@@ -1,8 +1,8 @@
 ---
 tags:
-	- web-development
-	- caching
-	- redis
+  - web-development
+  - caching
+  - redis
 category: Web Development
 related: REST API, Server-Side vs Client-side operations, File IO
 ---

@@ -1,8 +1,8 @@
 ---
 tags:
-	- development-lifecycle
-	- sdlc
-	- software-engineering
+  - development-lifecycle
+  - sdlc
+  - software-engineering
 category: Development Lifecycle
 related: Agile methodology, CI-CD Pipeline, DevOps, Sprints
 ---

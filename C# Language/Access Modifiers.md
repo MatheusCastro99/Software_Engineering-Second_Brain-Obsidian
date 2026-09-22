@@ -8,7 +8,7 @@ related: Classes, Interfaces, Inheritance, OOP Fundamentals
 
 # Access Modifiers
 
-Access modifiers control the visibility and accessibility of class members (fields, properties, methods) from different parts of your code. They're essential for [[Encapsulation]].
+Access modifiers control the visibility and accessibility of class members (fields, properties, methods) from different parts of your code. They're essential for [[OOP Fundamentals#1. Encapsulation|Encapsulation]].
 
 ## Visibility Levels
 

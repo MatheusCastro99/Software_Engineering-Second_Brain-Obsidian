@@ -7,6 +7,8 @@
 - [[Prompt Engineering Basics]] - Designing effective prompts and instructions
 - [[Temperature and Verbosity]] - Controlling randomness and output style
 - [[Word Tokenization]] - How language is split into tokens and processed by models
+- [[Neural Networks and Transformers]] - The architecture behind modern language models
+- [[Context Window and Attention]] - Managing context, attention, and short-term memory
 
 ## AI Development Strategies
 - [[Agentic Architecture]] - Designing autonomous workflows with reasoning loops and tool use
@@ -23,7 +25,6 @@
 
 ## Applied Thinking
 - [[Error Handling]] - Defensive design when AI agents fail or produce bad outputs
-- [[Memory Management]] - Managing context, state, and short-term memory
 - [[Path of Code Execution]] - Understanding software execution around AI-powered apps
 
 ## Related Domains
@@ -31,4 +32,4 @@
 - [[Cache and Redis]] - Improve latency and reduce repeated AI-related lookups
 - [[Git Fundamentals]] - Versioning and traceability in AI-driven projects
 
-*Last updated: 2026-09-08*
+*Last updated: 2026-09-22*

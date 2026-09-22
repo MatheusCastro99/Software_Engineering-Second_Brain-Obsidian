@@ -1,8 +1,8 @@
 ---
 tags:
-	- development-lifecycle
-	- ci-cd
-	- automation
+  - development-lifecycle
+  - ci-cd
+  - automation
 category: Development Lifecycle
 related: DevOps, Agile methodology, SDLC, Git Fundamentals
 ---

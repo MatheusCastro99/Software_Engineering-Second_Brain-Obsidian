@@ -1,8 +1,8 @@
 ---
 tags:
-	- web-development
-	- full-stack
-	- architecture
+  - web-development
+  - full-stack
+  - architecture
 category: Web Development
 related: DOM, REST API, Server-Side vs Client-side operations, Popular Stacks and Frameworks
 ---

@@ -1,8 +1,8 @@
 ---
 tags:
-	- development-lifecycle
-	- release-management
-	- deployment
+  - development-lifecycle
+  - release-management
+  - deployment
 category: Development Lifecycle
 related: CI-CD Pipeline, DevOps, SDLC, Technical Debt
 ---

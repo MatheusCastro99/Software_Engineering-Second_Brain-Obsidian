@@ -1,8 +1,8 @@
 ---
 tags:
-	- web-development
-	- api
-	- http
+  - web-development
+  - api
+  - http
 category: Web Development
 related: Server-Side vs Client-side operations, Cache and Redis, Error Handling
 ---

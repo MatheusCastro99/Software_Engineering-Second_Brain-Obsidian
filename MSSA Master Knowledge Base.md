@@ -12,7 +12,7 @@ description: Root map of contents for MSSA coursework, software engineering, AI,
 
 ## 🧭 Study Roadmap
 
-This vault is organized to move from the simplest and most foundational concepts toward increasingly complex systems and production thinking.
+This vault is organized to move from the simplest and most foundational concepts toward increasingly complex systems and production thinking. For the full ordered path, see [[StudyRoadmap]].
 
 ### Foundation Track
 - [[Variables and Data Types]]
@@ -23,16 +23,27 @@ This vault is organized to move from the simplest and most foundational concepts
 - [[Interfaces]]
 - [[Inheritance]]
 - [[Access Modifiers]]
+- [[Namespaces]]
+- [[Path of Code Execution]]
+- [[CLR]]
+- [[Managed Code]]
+- [[.NET/Memory Management|Memory Management]]
 
 ### Core Computing Track
 - [[Big O Notation]]
 - [[Arrays]]
 - [[Lists]]
+- [[Linked Lists]]
 - [[Stacks and Queues]]
 - [[Dictionaries and HashSets]]
 - [[Trees]]
 - [[Linear Search]]
 - [[Binary Search]]
+- [[Jump Search]]
+- [[Hash Lookup]]
+- [[Bubble Sort]]
+- [[Selection Sort]]
+- [[Insertion Sort]]
 - [[Merge Sort]]
 - [[Quick Sort]]
 
@@ -41,29 +52,51 @@ This vault is organized to move from the simplest and most foundational concepts
 - [[Relational vs non-Relational DBs]]
 - [[Relationships Design]]
 - [[Model design considerations]]
+- [[Commonly Used Tools and DBs]]
 - [[REST API]]
+- [[Serializations]]
 - [[Cache and Redis]]
 - [[Server-Side vs Client-side operations]]
+- [[DOM]]
+- [[Full Stack, Front End, and Back End Development]]
+- [[Popular Stacks and Frameworks]]
+- [[File IO]]
 
 ### Software Design and Delivery Track
 - [[OOP Fundamentals]]
 - [[SOLID Principles]]
 - [[DRY Principle]]
+- [[Git Fundamentals]]
 - [[SDLC]]
 - [[Agile methodology]]
+- [[Sprints]]
+- [[DevOps]]
 - [[CI-CD Pipeline]]
+- [[Release Management]]
+- [[Technical Debt]]
 - [[Docker Basics]]
+- [[Docker commands]]
+- [[ForEach-Object $_ and other useful tricks]]
 - [[Kubernetes]]
 - [[Azure Cloud]]
+- [[WinForms and MAUI]]
 
 ### AI and Advanced Practice Track
 - [[Probabilistic and Vectorial nature]]
+- [[Word Tokenization]]
+- [[Neural Networks and Transformers]]
+- [[Context Window and Attention]]
 - [[Prompt Engineering Basics]]
 - [[Temperature and Verbosity]]
 - [[Agentic Architecture]]
+- [[Agents, Sub-Agents, and Multi-Agents Orchestration]]
+- [[Single and Multi Thread Workflows]]
 - [[MCP's]]
 - [[Skills]]
 - [[GitHub Repo and Issues as a Memory source]]
+- [[Making use of GitHub]]
+- [[Popular Tools and Solutions]]
+- [[Popular Open-Source Repo solutions]]
 
 > Recommended sequence: begin with core programming, then data structures, then systems and data, then software design and production delivery, and finish with AI and agentic workflows.
 
@@ -113,7 +146,7 @@ This vault is organized to move from the simplest and most foundational concepts
 ### 9. **Development Tools & Infrastructure**
    - [[Git Fundamentals]] - Version control and collaboration
    - [[File IO]] - Reading/writing files and data
-   - [[UI Development|WinForms and MAUI]] - Building user interfaces
+   - [[WinForms and MAUI]] - Building user interfaces
    - [[Cache and Redis]] - High-speed data access patterns
 
 ---
@@ -136,6 +169,14 @@ This vault is organized to move from the simplest and most foundational concepts
 | [[Operators]] | Computations | Arithmetic, logical, ternary, precedence |
 | [[Methods]] | Reusable code | Parameters, overloading, optional args |
 | [[Error Handling]] | Robustness | Try-catch-finally, exceptions, using |
+| [[Path of Code Execution]] | From editor to machine code | Interpreter, compiler, managed code |
+
+### .NET Runtime
+| Topic | Purpose | Key Concepts |
+|-------|---------|--------------|
+| [[CLR]] | Execution engine | Intermediate Language, JIT to machine code |
+| [[Managed Code]] | Runtime-controlled execution | CLR services, safety |
+| [[.NET/Memory Management\|Memory Management]] | Resource lifecycle | Garbage collector, boxing, value vs reference |
 
 ### Data Structures (Performance Analysis)
 | Topic | Time Complexity | Best For |
@@ -161,10 +202,20 @@ This vault is organized to move from the simplest and most foundational concepts
 | Topic | Focus | Common Use |
 |-------|-------|------------|
 | [[Probabilistic and Vectorial nature]] | How models represent uncertainty and meaning | Language model internals |
+| [[Word Tokenization]] | How text becomes tokens | Counting and budgeting input |
+| [[Neural Networks and Transformers]] | Model architecture | Understanding how LLMs work |
+| [[Context Window and Attention]] | What the model can "see" | Managing long inputs and memory |
 | [[Prompt Engineering Basics]] | Design effective instructions | Improving outputs |
 | [[Temperature and Verbosity]] | Control creativity and detail | Tuning response quality |
 | [[Agentic Architecture]] | Autonomous task orchestration | Multi-step AI workflows |
+| [[Agents, Sub-Agents, and Multi-Agents Orchestration]] | Distributing work across agents | Large or parallel tasks |
+| [[Single and Multi Thread Workflows]] | Sequential vs parallel AI work | Structuring agent sessions |
 | [[MCP's]] | Tool and context integration | Connecting models to tools |
+| [[Skills]] | Reusable agent capabilities | Repeatable workflows |
+| [[GitHub Repo and Issues as a Memory source]] | Durable project memory | Long-running AI work |
+| [[Making use of GitHub]] | GitHub as an AI collaboration surface | Issues, PRs, reviews |
+| [[Popular Tools and Solutions]] | AI tooling landscape | Choosing tools |
+| [[Popular Open-Source Repo solutions]] | Community reference implementations | Reusing proven patterns |
 
 ### Databases & APIs
 | Topic | Focus | Typical Use |
@@ -172,16 +223,29 @@ This vault is organized to move from the simplest and most foundational concepts
 | [[SQL]] | Relational queries | Structured data operations |
 | [[Relational vs non-Relational DBs]] | Storage model trade-offs | Choosing the right database |
 | [[Relationships Design]] | Entity association modeling | Designing schemas |
+| [[Model design considerations]] | Schema, normalization, indexing | Designing tables and models |
+| [[Commonly Used Tools and DBs]] | Database ecosystem | Picking a database or tool |
 | [[REST API]] | Resource-based web interfaces | App-to-app communication |
+| [[Serializations]] | Object ↔ JSON/XML conversion | Sending data between layers |
 | [[Cache and Redis]] | Speed and repeated read optimization | Caching and sessions |
+| [[Server-Side vs Client-side operations]] | Responsibility split | Where logic should run |
+| [[DOM]] | Browser document model | Front-end manipulation |
+| [[Full Stack, Front End, and Back End Development]] | Application layers | Understanding web roles |
+| [[Popular Stacks and Frameworks]] | Technology stacks | Choosing a stack |
 
 ### Delivery & Production
 | Topic | Purpose | Key Skills |
 |-------|---------|------------|
 | [[SDLC]] | Lifecycle overview | Planning and delivery |
 | [[Agile methodology]] | Iterative team delivery | Sprint-based work |
+| [[Sprints]] | Time-boxed iterations | Planning and reviews |
+| [[DevOps]] | Dev + Ops culture | Continuous delivery and feedback |
 | [[CI-CD Pipeline]] | Automation in releases | Build, test, deploy |
+| [[Release Management]] | Controlled rollouts | Versioning, rollback |
+| [[Technical Debt]] | Cost of shortcuts | Prioritizing maintenance |
 | [[Docker Basics]] | Containerization | Packaging apps consistently |
+| [[Docker commands]] | Docker CLI | Images, containers, cleanup |
+| [[ForEach-Object $_ and other useful tricks]] | PowerShell pipelines | Scripting and automation |
 | [[Kubernetes]] | Orchestration | Scaling and management |
 | [[Azure Cloud]] | Cloud deployment | Managed infrastructure |
 
@@ -197,7 +261,7 @@ This vault is organized to move from the simplest and most foundational concepts
 |-------|---------|------------|
 | [[Git Fundamentals]] | Version control | Commits, branches, merging |
 | [[File IO]] | Data persistence | Reading, writing, directories |
-| [[UI Development|WinForms and MAUI]] | User interfaces | Desktop & mobile apps |
+| [[WinForms and MAUI]] | User interfaces | Desktop & mobile apps |
 
 ---
 
@@ -244,7 +308,7 @@ This vault is organized to move from the simplest and most foundational concepts
 3. [[REST API]] - Design interfaces
 4. [[SQL]] - Persist and query data
 5. [[Git Fundamentals]] - Manage code versions
-6. [[UI Development|WinForms and MAUI]] - Create interfaces
+6. [[WinForms and MAUI]] - Create interfaces
 
 ---
 
@@ -300,7 +364,7 @@ This vault is organized to move from the simplest and most foundational concepts
 **Tools & Infrastructure**
 - [[Git Fundamentals]] - Version control
 - [[File IO]] - Data persistence
-- [[UI Development|WinForms and MAUI]] - User interfaces
+- [[WinForms and MAUI]] - User interfaces
 
 ---
 
@@ -309,7 +373,7 @@ This vault is organized to move from the simplest and most foundational concepts
 1. **Start with the master index** - You're reading it now
 2. **Pick a domain** - Choose from programming, AI, data, web, or production
 3. **Follow the learning path** - Beginner → Intermediate → Advanced
-4. **Use cross-references** - Notice [[wiki links]] throughout
+4. **Use cross-references** - Follow the wiki links throughout
 5. **Practice the concepts** - Apply immediately to projects and exercises
 
 ---
@@ -325,4 +389,4 @@ This vault is organized to move from the simplest and most foundational concepts
 
 ---
 
-**Last Updated:** 2026-09-08 | **Status:** Expanded Knowledge Base
+**Last Updated:** 2026-09-22 | **Status:** Expanded Knowledge Base

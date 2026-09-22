@@ -1,9 +1,9 @@
 ---
 tags:
-	- ai-fundamentals
-	- probability
-	- vectors
-	- machine-learning
+  - ai-fundamentals
+  - probability
+  - vectors
+  - machine-learning
 category: AI Fundamentals
 related: Word Tokenization, Temperature and Verbosity, Prompt Engineering Basics
 ---

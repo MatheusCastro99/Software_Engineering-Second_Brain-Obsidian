@@ -1,8 +1,8 @@
 ---
 tags:
-	- ai-fundamentals
-	- neural-networks
-	- transformers
+  - ai-fundamentals
+  - neural-networks
+  - transformers
 category: AI Fundamentals
 related: Context Window and Attention, Probabilistic and Vectorial nature, Word Tokenization
 ---

@@ -1,8 +1,8 @@
 ---
 tags:
-	- ai-development
-	- github
-	- mcp
+  - ai-development
+  - github
+  - mcp
 category: AI Development Strategies
 related: GitHub Repo and Issues as a Memory source, MCP's, Skills
 ---

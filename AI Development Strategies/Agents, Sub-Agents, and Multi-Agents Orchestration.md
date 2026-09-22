@@ -1,8 +1,8 @@
 ---
 tags:
-	- ai-development
-	- agents
-	- orchestration
+  - ai-development
+  - agents
+  - orchestration
 category: AI Development Strategies
 related: Agentic Architecture, Single and Multi Thread Workflows, Skills
 ---

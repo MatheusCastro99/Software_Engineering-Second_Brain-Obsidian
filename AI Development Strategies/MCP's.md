@@ -1,8 +1,8 @@
 ---
 tags:
-	- ai-development
-	- mcp
-	- tools
+  - ai-development
+  - mcp
+  - tools
 category: AI Development Strategies
 related: Agentic Architecture, Skills, Making use of GitHub
 ---

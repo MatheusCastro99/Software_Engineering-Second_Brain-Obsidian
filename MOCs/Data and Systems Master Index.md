@@ -15,11 +15,13 @@
 - [[DOM]] - Document structure and browser manipulation
 - [[Cache and Redis]] - Faster reads and high-performance caching patterns
 - [[Popular Stacks and Frameworks]] - Common web and backend technologies
+- [[Full Stack, Front End, and Back End Development]] - How the layers of a web application fit together
+- [[Serializations]] - Converting objects to JSON, XML, and other formats for transport
 
 ## Persistence and Data Flow
 - [[File IO]] - Local persistence and data reading/writing
 - [[Error Handling]] - Graceful behavior when failures happen
-- [[Memory Management]] - Resource usage, lifecycle, and performance awareness
+- [[.NET/Memory Management|Memory Management]] - Resource usage, lifecycle, and performance awareness
 - [[Path of Code Execution]] - Understanding execution flow through software
 
 ## Systems Thinking
@@ -32,6 +34,6 @@
 ## Related Domains
 - [[AI Master Index]] - Systems that consume or coordinate AI capabilities
 - [[Production Development Master Index]] - Shipping and operating software in real environments
-- [[Software Engineering]] - Designing maintainable system boundaries
+- [[SOLID Principles]] - Designing maintainable system boundaries
 
-*Last updated: 2026-09-08*
+*Last updated: 2026-09-22*

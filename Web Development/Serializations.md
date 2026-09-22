@@ -1,8 +1,8 @@
 ---
 tags:
-	- web-development
-	- data
-	- serialization
+  - web-development
+  - data
+  - serialization
 category: Web Development
 related: REST API, File IO, Server-Side vs Client-side operations
 ---

@@ -1,8 +1,8 @@
 ---
 tags:
-	- development-lifecycle
-	- devops
-	- automation
+  - development-lifecycle
+  - devops
+  - automation
 category: Development Lifecycle
 related: CI-CD Pipeline, Agile methodology, SDLC, Azure Cloud
 ---

@@ -15,6 +15,10 @@ Build the basics before moving into structures and architecture.
 - [[Inheritance]]
 - [[Access Modifiers]]
 - [[Namespaces]]
+- [[Path of Code Execution]]
+- [[CLR]]
+- [[Managed Code]]
+- [[.NET/Memory Management|Memory Management]]
 
 ## 2. Core Computing and Data Structures
 
@@ -32,6 +36,7 @@ Learn how data is organized and how programs perform at scale.
 - [[Jump Search]]
 - [[Hash Lookup]]
 - [[Bubble Sort]]
+- [[Selection Sort]]
 - [[Insertion Sort]]
 - [[Merge Sort]]
 - [[Quick Sort]]
@@ -44,10 +49,14 @@ Understand how applications store information and communicate with each other.
 - [[Relational vs non-Relational DBs]]
 - [[Relationships Design]]
 - [[Model design considerations]]
+- [[Commonly Used Tools and DBs]]
 - [[REST API]]
+- [[Serializations]]
 - [[Server-Side vs Client-side operations]]
 - [[Cache and Redis]]
 - [[DOM]]
+- [[Full Stack, Front End, and Back End Development]]
+- [[Popular Stacks and Frameworks]]
 - [[File IO]]
 
 ## 4. Design, Quality, and Delivery
@@ -57,14 +66,20 @@ Move from coding to building reliable and maintainable software.
 - [[OOP Fundamentals]]
 - [[SOLID Principles]]
 - [[DRY Principle]]
+- [[Git Fundamentals]]
 - [[SDLC]]
 - [[Agile methodology]]
 - [[Sprints]]
 - [[CI-CD Pipeline]]
 - [[DevOps]]
+- [[Release Management]]
+- [[Technical Debt]]
 - [[Docker Basics]]
+- [[Docker commands]]
+- [[ForEach-Object $_ and other useful tricks]]
 - [[Kubernetes]]
 - [[Azure Cloud]]
+- [[WinForms and MAUI]]
 
 ## 5. AI and Advanced Practice
 
@@ -74,11 +89,17 @@ Develop an understanding of how modern AI tools and agentic systems work.
 - [[Prompt Engineering Basics]]
 - [[Temperature and Verbosity]]
 - [[Word Tokenization]]
+- [[Neural Networks and Transformers]]
+- [[Context Window and Attention]]
 - [[Agentic Architecture]]
 - [[Agents, Sub-Agents, and Multi-Agents Orchestration]]
+- [[Single and Multi Thread Workflows]]
 - [[MCP's]]
 - [[Skills]]
 - [[GitHub Repo and Issues as a Memory source]]
+- [[Making use of GitHub]]
+- [[Popular Tools and Solutions]]
+- [[Popular Open-Source Repo solutions]]
 
 ## Recommended Path
 

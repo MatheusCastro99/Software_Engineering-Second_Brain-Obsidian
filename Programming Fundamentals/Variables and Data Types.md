@@ -83,5 +83,5 @@ bool success = int.TryParse(text, out int result);
 
 - [[Operators]] - Perform operations on variables
 - [[Methods]] - Functions to work with data
-- [[Memory Management]] - How variables are stored in memory
+- [[.NET/Memory Management|Memory Management]] - How variables are stored in memory
 - [[Error Handling]] - Managing null and type errors

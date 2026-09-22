@@ -1,8 +1,8 @@
 ---
 tags:
-	- ai-fundamentals
-	- context-window
-	- attention
+  - ai-fundamentals
+  - context-window
+  - attention
 category: AI Fundamentals
 related: Neural Networks and Transformers, Word Tokenization, Prompt Engineering Basics
 ---

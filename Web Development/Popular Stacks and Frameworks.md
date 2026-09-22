@@ -1,8 +1,8 @@
 ---
 tags:
-	- web-development
-	- frameworks
-	- architecture
+  - web-development
+  - frameworks
+  - architecture
 category: Web Development
 related: Server-Side vs Client-side operations, REST API, DOM
 ---

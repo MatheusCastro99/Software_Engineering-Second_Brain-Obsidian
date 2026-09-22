@@ -8,6 +8,8 @@
 - [[Sprints]] - Time-boxed delivery cycles
 - [[DevOps]] - Combining development and operations for continuous delivery
 - [[CI-CD Pipeline]] - Automated build, test, and release pipelines
+- [[Release Management]] - Planning, versioning, and rolling out releases safely
+- [[Technical Debt]] - Tracking and paying down the cost of shortcuts
 
 ## Shipping Solutions
 - [[Docker Basics]] - Container fundamentals and packaging
@@ -27,11 +29,11 @@
 - [[Error Handling]] - Graceful failure paths and resilience
 - [[File IO]] - Data persistence and operational workflows
 - [[Git Fundamentals]] - Version control and collaboration discipline
-- [[Memory Management]] - Performance awareness and runtime/resource constraints
+- [[.NET/Memory Management|Memory Management]] - Performance awareness and runtime/resource constraints
 
 ## Related Domains
-- [[UI Development|WinForms and MAUI]] - User-facing delivery surfaces
+- [[WinForms and MAUI]] - User-facing delivery surfaces
 - [[Popular Stacks and Frameworks]] - Common technology stacks for production systems
 - [[Popular Tools and Solutions]] - Tooling ecosystem for modern engineering teams
 
-*Last updated: 2026-09-08*
+*Last updated: 2026-09-22*
