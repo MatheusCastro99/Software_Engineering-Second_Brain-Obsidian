@@ -4,7 +4,7 @@ tags:
   - full-stack
   - architecture
 category: Web Development
-related: DOM, REST API, Server-Side vs Client-side operations, Popular Stacks and Frameworks
+related: DOM, REST API, Server-Side vs Client-side operations, Popular Stacks and Frameworks, Client-Server Architecture
 ---
 
 # Full-Stack, Front-End, and Back-End Development
@@ -102,3 +102,4 @@ Some concerns cross the front-end and back-end boundary:
 - [[Server-Side vs Client-side operations]] - Responsibility boundaries
 - [[Popular Stacks and Frameworks]] - Technologies used across the stack
 - [[Serializations]] - Represent data across boundaries
+- [[Client-Server Architecture]] - Front end as client, back end as server

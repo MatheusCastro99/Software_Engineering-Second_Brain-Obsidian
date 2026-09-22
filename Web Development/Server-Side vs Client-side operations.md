@@ -4,7 +4,7 @@ tags:
   - architecture
   - client-server
 category: Web Development
-related: REST API, DOM, Cache and Redis, Popular Stacks and Frameworks
+related: REST API, DOM, Cache and Redis, Popular Stacks and Frameworks, Client-Server Architecture
 ---
 
 # Server-Side vs Client-Side Operations
@@ -90,3 +90,4 @@ Moving work to the client can reduce server computation but increases JavaScript
 - [[Cache and Redis]] - Caching at different layers
 - [[Popular Stacks and Frameworks]] - Technologies that implement each side
 - [[Error Handling]] - Handle failures across the boundary
+- [[Client-Server Architecture]] - The architecture behind the client/server split

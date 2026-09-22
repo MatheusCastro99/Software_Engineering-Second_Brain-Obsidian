@@ -4,7 +4,7 @@ tags:
   - docker
   - containers
 category: Shipping Solutions
-related: Docker commands, Kubernetes, Azure Cloud, ForEach-Object $_ and other useful tricks
+related: Docker commands, Kubernetes, Azure Cloud, ForEach-Object $_ and other useful tricks, Microservices Architecture
 ---
 
 # Docker Basics
@@ -97,3 +97,4 @@ Docker Desktop provides a graphical interface and a local Docker engine for Wind
 - [[Azure Cloud]] - Host and manage container workloads
 - [[CI-CD Pipeline]] - Build and publish images automatically
 - [[ForEach-Object $_ and other useful tricks]] - Automate Docker tasks with PowerShell
+- [[Microservices Architecture]] - Each service packaged as its own container

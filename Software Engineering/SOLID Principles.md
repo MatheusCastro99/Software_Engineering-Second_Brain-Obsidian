@@ -4,7 +4,7 @@ tags:
   - design
   - principles
 category: Software Engineering
-related: OOP Fundamentals, Classes, Interfaces, DRY Principle
+related: OOP Fundamentals, Classes, Interfaces, DRY Principle, Clean Code
 ---
 
 # SOLID Principles
@@ -137,3 +137,4 @@ public class PaymentService
 - [[Classes]] - Where principles are applied
 - [[Interfaces]] - Key tool for most principles
 - [[DRY Principle]] - Complementary design principle
+- [[Clean Code]] - Architecture built on dependency inversion

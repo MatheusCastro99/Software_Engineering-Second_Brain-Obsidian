@@ -8,7 +8,7 @@
 - [MSSA Master Knowledge Base.md](MSSA%20Master%20Knowledge%20Base.md) — vault overview, learning paths, and topic tables
 - [MOCs/C Sharp Master Index.md](MOCs/C%20Sharp%20Master%20Index.md) — C# language and the .NET runtime
 - [MOCs/Data Structures Index.md](MOCs/Data%20Structures%20Index.md) — data structures, algorithms, and performance
-- [MOCs/Data and Systems Master Index.md](MOCs/Data%20and%20Systems%20Master%20Index.md) — databases, APIs, and web systems
+- [MOCs/Data and Systems Master Index.md](MOCs/Data%20and%20Systems%20Master%20Index.md) — databases, APIs, web systems, and architecture patterns
 - [MOCs/Production Development Master Index.md](MOCs/Production%20Development%20Master%20Index.md) — lifecycle, delivery, and shipping
 - [MOCs/AI Master Index.md](MOCs/AI%20Master%20Index.md) — AI fundamentals and agentic workflows
 
@@ -59,6 +59,15 @@
 - [OOP Fundamentals](Software%20Engineering/OOP%20Fundamentals.md)
 - [SOLID Principles](Software%20Engineering/SOLID%20Principles.md)
 - [DRY Principle](Software%20Engineering/DRY%20Principle.md)
+
+### Architecture Conventions and Templates
+- [Client-Server Architecture](Architecture%20Conventions%20and%20Templates/Client-Server%20Architecture.md)
+- [MVC](Architecture%20Conventions%20and%20Templates/MVC.md)
+- [MVVM](Architecture%20Conventions%20and%20Templates/MVVM.md)
+- [Clean Code](Architecture%20Conventions%20and%20Templates/Clean%20Code.md)
+- [Feature-oriented](Architecture%20Conventions%20and%20Templates/Feature-oriented.md)
+- [Monolith - Modular Monolith](Architecture%20Conventions%20and%20Templates/Monolith%20-%20Modular%20Monolith.md)
+- [Microservices Architecture](Architecture%20Conventions%20and%20Templates/Microservices%20Architecture.md)
 
 ### Development Lifecycle
 - [SDLC](Development%20Lifecycle/SDLC.md)
@@ -114,6 +123,7 @@ This vault is organized for learning, revision, and practical software developme
 - data structures, algorithms, and performance
 - data modeling and querying
 - web and API development
+- software architecture patterns
 - AI guidance and multi-step task execution
 - shipping software into production
 
@@ -142,6 +152,7 @@ Notes marked *(stub)* hold only a title and short description; they are placehol
 ├── Databases/                          # 5 notes
 ├── Web Development/                    # 7 notes
 ├── Software Engineering/               # 3 notes
+├── Architecture Conventions and Templates/  # 7 notes
 ├── Development Lifecycle/              # 7 notes
 ├── Shipping Solutions/                 # Azure, Kubernetes
 │   └── Docker/                         # 3 notes

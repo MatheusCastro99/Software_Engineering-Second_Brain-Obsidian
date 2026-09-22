@@ -24,6 +24,15 @@
 - [[.NET/Memory Management|Memory Management]] - Resource usage, lifecycle, and performance awareness
 - [[Path of Code Execution]] - Understanding execution flow through software
 
+## Architecture Patterns
+- [[Client-Server Architecture]] - Clients request, servers respond; the base of web systems
+- [[Monolith - Modular Monolith]] - One deployable unit, optionally split into enforced modules
+- [[Microservices Architecture]] - Independently deployable services per business capability
+- [[MVC]] - Model-View-Controller for web apps and APIs
+- [[MVVM]] - Model-View-ViewModel with data binding for MAUI/WPF
+- [[Clean Code]] - Clean Architecture layers and the dependency rule
+- [[Feature-oriented]] - Organizing code by business feature instead of technical layer
+
 ## Systems Thinking
 - [[DevOps]] - Bridging software delivery and operations
 - [[CI-CD Pipeline]] - Automated validation and deployment

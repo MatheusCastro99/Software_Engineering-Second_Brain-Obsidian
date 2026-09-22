@@ -4,7 +4,7 @@ tags:
   - csharp
   - frameworks
 category: UI Development
-related: Classes, OOP Fundamentals, Methods
+related: Classes, OOP Fundamentals, Methods, MVVM
 ---
 
 # WinForms and MAUI
@@ -233,3 +233,4 @@ public class UserViewModel : INotifyPropertyChanged
 - [[Classes]] - UI components are classes
 - [[OOP Fundamentals]] - Inheritance in UI frameworks
 - [[Methods]] - Event handlers and bindings
+- [[MVVM]] - The standard architecture pattern for MAUI apps

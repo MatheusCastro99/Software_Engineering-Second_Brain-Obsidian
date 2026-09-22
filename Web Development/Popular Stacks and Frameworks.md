@@ -4,7 +4,7 @@ tags:
   - frameworks
   - architecture
 category: Web Development
-related: Server-Side vs Client-side operations, REST API, DOM
+related: Server-Side vs Client-side operations, REST API, DOM, MVC
 ---
 
 # Popular Stacks and Frameworks
@@ -78,3 +78,4 @@ Framework popularity is not enough. A smaller, well-supported framework that fit
 - [[DOM]] - Browser document manipulation
 - [[Cache and Redis]] - Improve data access performance
 - [[Docker Basics]] - Package and deploy applications
+- [[MVC]] - The pattern behind ASP.NET Core and many web frameworks

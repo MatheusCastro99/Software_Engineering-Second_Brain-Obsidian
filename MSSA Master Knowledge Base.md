@@ -66,6 +66,13 @@ This vault is organized to move from the simplest and most foundational concepts
 - [[OOP Fundamentals]]
 - [[SOLID Principles]]
 - [[DRY Principle]]
+- [[Client-Server Architecture]]
+- [[MVC]]
+- [[MVVM]]
+- [[Clean Code]]
+- [[Feature-oriented]]
+- [[Monolith - Modular Monolith]]
+- [[Microservices Architecture]]
 - [[Git Fundamentals]]
 - [[SDLC]]
 - [[Agile methodology]]
@@ -126,6 +133,7 @@ This vault is organized to move from the simplest and most foundational concepts
    - Model persistent data with [[SQL]], [[Relationships Design]], and [[Model design considerations]]
    - Compare storage strategies in [[Relational vs non-Relational DBs]] and [[Commonly Used Tools and DBs]]
    - Understand communication patterns in [[REST API]], [[Server-Side vs Client-side operations]], and [[Cache and Redis]]
+   - Compare architecture patterns from [[MVC]] and [[Clean Code]] to [[Monolith - Modular Monolith]] and [[Microservices Architecture]]
 
 ### 6. **Programming Fundamentals** - Core Computing Concepts
    - [[Variables and Data Types]] - Type system and memory
@@ -232,6 +240,17 @@ This vault is organized to move from the simplest and most foundational concepts
 | [[DOM]] | Browser document model | Front-end manipulation |
 | [[Full Stack, Front End, and Back End Development]] | Application layers | Understanding web roles |
 | [[Popular Stacks and Frameworks]] | Technology stacks | Choosing a stack |
+
+### Architecture Patterns
+| Topic | Scope | When to Use |
+|-------|-------|-------------|
+| [[Client-Server Architecture]] | System communication | Almost every networked app |
+| [[MVC]] | Web presentation | Server-rendered apps and APIs |
+| [[MVVM]] | Desktop/mobile presentation | MAUI and WPF apps with data binding |
+| [[Clean Code]] | Application layering | Long-lived apps with real business rules |
+| [[Feature-oriented]] | Code organization | Many features, several developers |
+| [[Monolith - Modular Monolith]] | Deployment | Starting point for most apps |
+| [[Microservices Architecture]] | Deployment | Independent teams and scaling needs |
 
 ### Delivery & Production
 | Topic | Purpose | Key Skills |

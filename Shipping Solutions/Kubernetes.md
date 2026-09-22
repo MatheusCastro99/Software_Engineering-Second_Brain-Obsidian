@@ -4,7 +4,7 @@ tags:
   - kubernetes
   - containers
 category: Shipping Solutions
-related: Docker Basics, Azure Cloud, DevOps, CI-CD Pipeline
+related: Docker Basics, Azure Cloud, DevOps, CI-CD Pipeline, Microservices Architecture
 ---
 
 # Kubernetes
@@ -101,3 +101,4 @@ kubectl rollout status deployment/web-api
 - [[Azure Cloud]] - Managed Kubernetes and cloud infrastructure
 - [[DevOps]] - Operate and improve deployed systems
 - [[CI-CD Pipeline]] - Automate manifest and image delivery
+- [[Microservices Architecture]] - Services commonly orchestrated with Kubernetes
